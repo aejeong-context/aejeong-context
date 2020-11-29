@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=110&section=header&text=Study%20rigth%20now!&fontSize=90&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=F05032&height=150&section=header&text=New%20Aejeong();&fontSize=80&fontColor=000000)

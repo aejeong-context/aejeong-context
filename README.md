@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=100&section=header&text=New%20Aejeong();&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&height=100&section=header&text=New%20Aejeong();&fontSize=60&fontColor=ffffff)
 
 ## Hi there 👋 
 

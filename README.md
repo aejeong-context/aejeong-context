@@ -2,36 +2,36 @@
 
 Hi, I'm studying slowly but hard. Everyone, don't give up and cheer up!
 
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-JPA-6DB33F?style=flat&logo=jpa&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>
                                                   
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=mysql&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>                                                  
 
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>  
 
-<a href="">
+<a href="#">
     <img 
         src="http://img.shields.io/badge/-IntelliJ-232F3E?style=flat&logo=intellij&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>

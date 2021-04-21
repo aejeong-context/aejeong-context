@@ -52,3 +52,9 @@ Hi, I'm studying slowly but hard. Everyone, don't give up and cheer up!
     <img src="http://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white"
          margin-left : 10px; margin-right : 10px;"/>
 </a>
+  
+<a href="https://aejeong.com/" target="_blank">
+    <img src="http://img.shields.io/badge/-TechBlog-FF5722?style=flat&logo=tstory&logoColor=white"
+         margin-left : 10px; margin-right : 10px;"/>
+</a>  
+                                                  
